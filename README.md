@@ -1,6 +1,8 @@
 # Hi there, I'm Fortune Chizurum Uzodinma! 👋
 
-![Fortune Chizurum Uzodinma](/images/Fortune.png)
+<p align="center">
+  <img width="100%" src="/images/Fortune.png" alt="Fortune Chizurum Uzodinma">
+</p>
 
 I'm a passionate programmer based in Rostov-on-Don, Russia, originally from Nigeria. Python is my first and favorite programming language, and I also work with Tailwind CSS, JavaScript, MongoDB, and Jest. I'm planning to add React, Vue, Ruby, and TypeScript to my skillset soon.
 
