@@ -6,7 +6,7 @@
   </a>
 </p>
 
-I'm a passionate programmer based in Rostov-on-Don, Russia, originally from Nigeria. Feel free to check out my [portfolio!](https://braingenius2.github.io/Portfolio-website/)
+I'm a passionate programmer based in Rostov-on-Don, Russia, proudly Nigerian. Feel free to check out my [portfolio!](https://braingenius2.github.io/Portfolio-website/)
 
 ## About Me
 
