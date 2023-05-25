@@ -25,11 +25,12 @@ I'm a passionate programmer based in Rostov-on-Don, Russia, originally from Nige
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS" />
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" />
-  <img src="https://img.icons8.com/ios-filled/48/000000/jest.png" alt="Jest" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png" alt="external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo"/>
 </p>
 
 ## GitHub Stats
