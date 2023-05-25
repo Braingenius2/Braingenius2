@@ -35,11 +35,12 @@ I'm a passionate programmer based in Rostov-on-Don, Russia, proudly Nigerian. Fe
 
 ## GitHub Stats
 
-![Fortune's GitHub stats](https://github-readme-stats.vercel.app/api?username=Braingenius2&show_icons=true&theme=radical)
+![Braingenius2's Stats](https://github-readme-stats.vercel.app/api?username=Braingenius2&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![Braingenius2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Braingenius2&theme=dracula&hide_border=false)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Braingenius2&layout=compact&theme=radical)
+![Braingenius2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Braingenius2&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 Feel free to explore my repositories and check out the projects I've been working on!
 
